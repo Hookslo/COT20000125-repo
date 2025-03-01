@@ -7,9 +7,7 @@ $ eg. git clone https://github.com/abitj/COT20000125.git
 $ cd <repository-name>
 $ eg. cd ~/Downloads/COT20000125
 This repo contains lab 4 and lab 5 code.
-my_set = {1, 2, 3, 4, 5} 
-# to 
-my_set = {333, 22, 1}
+my_set = {1, 2, 3, 4, 5} to my_set = {333, 22, 1}
 $ git status
 $ git add README.md
 $ git add Set with Python.ipynb
